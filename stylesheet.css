@@ -4,3 +4,18 @@
 body{
 	background-color: #4E3FFB;
 }
+
+@font-face {
+  font-family: 'Mont-Regular';
+  src: url("Mont/Mont-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Mont-Bold';
+  src: url("Mont/Mont-Bold.ttf");
+}
+
+@font-face {
+  font-family: 'Mont-SemiBold';
+  src: url("Mont/Mont-SemiBold.ttf");
+}
